@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.all {
+  display: flex;
+  flex-direction: row;
+  /*justify-content: space-around;*/
+  align-items: flex-end;
+  background-color: red;
+  border: 5px dashed green;
+  height: 100vh;
+}
+
+.first {
+  height: 40px;
+  width: 20px;
+  background: yellow;
+}
+
+.second {
+  height: 40px;
+  width: 20px;
+  background: #132356;
+}
+
+.last {
+  height: 40px;
+  width: 20px;
+  background: #a56578;
+}
